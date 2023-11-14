@@ -1,0 +1,28 @@
+{
+  "name": "@pg/link-config",
+  "version": "1.0.0",
+  "description": "privasy link generator",
+  "main": "lib/es5/index.js",
+  "module": "lib/es6/index.js",
+  "sideEfffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[username]/privacy-link.git"
+  },
+  "files": [
+   "lib",
+   "CHANGELOG.md",
+   "LICENSE",
+   "package.json",
+   "README.md"
+  ],
+  "keywords": [
+    "privacy",
+    "link"
+  ],
+  "author": "Asel Sultanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyassel/privacy-link/issues"
+  }
+}
