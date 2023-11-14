@@ -1,0 +1,27 @@
+{
+  "name": "link-config",
+  "version": "1.0.0",
+  "description": "privasy link generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "rm -rf dist/lib && tsc && tsc --build tsconfig.es5.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[username]/privacy-link.git"
+  },
+  "keywords": [
+    "privacy",
+    "link"
+  ],
+  "author": "PG team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyassel/privacy-link/issues"
+  },
+  "homepage": "https://github.com/heyassel/privacy-link#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
